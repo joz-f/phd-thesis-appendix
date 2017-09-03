@@ -1,0 +1,125 @@
+APPROVED: QMREC1603 (2017)
+
+Name: Julie Freeman
+Student number: XXXX
+Email address: XXXX
+Programme of study: PhD
+Department: EECS
+Title of study: Responses to physical data visualisation
+Supervisor or PI: Prof Mark Sandler (XXXX)
+
+I confirm that QMUL is responsible for this study and that I am not receiving any funding for this project (other than that provided by myself or through my course):
+  Yes
+Funding body: None specified
+Level of funding: None specified
+
+Summary of the research:
+
+  Aim of Study:
+  We are interested in how real-time animal tracking data can be used to
+  represent the activity from the source. Real-time data from a remote colony of
+  naked mole-rats is used to control a set of small kinetic objects. This study
+  seeks to gain an understanding of how participants respond to real-time
+  biological data through the physical representation, and whether a connection
+  to nature (the source) is developed.
+  
+  Recruitment:
+  The aim is to gather data through a questionnaire and semi-structured
+  interviews from a sample of 20-30 participants from the general public aged 16
+  and above. Participants will be recruited via direct contact using email and
+  social media. Each will  be provided with an information sheet and consent
+  form,  explaining the purpose  of the study and the way that the data will be
+  stored and used. Benefit to the participants will be through access to the
+  completed research.
+
+  Method:
+  Participants will be briefed, asked to sign consent form, and then instructed
+  to view the artworks alone in a controlled studio environment for a short
+  period of time. They will then complete a questionnaire to assess their
+  connection to nature through the movement of the object. Groups of
+  participants will receive differing briefing information about the study to
+  enable us to look for difference in response depending on prior knowledge. A
+  number of participants will be interviewed after the observation.
+
+  Data Collection:
+  Demographic information will be collected, personal data, such as email
+  addresses, telephone numbers, and geographic addresses will be stored separately to the interview data on an
+  EECS secure server with limited user access. All participants data will be
+  anonymised. During the study participants will be asked permission for audio
+  recording and video footage to be captured. Parts of the audio transcribed and stored  on the researchers computer. The recordings are for analysis and not for reproduction elsewhere. They will be destroyed after the study has concluded.
+
+  Risk:
+  The study is akin to visiting an art gallery and being asked questions about
+  the experience. It is considered low risk. There will be no contact with the
+  animals.
+
+
+  Example questions:
+  * Please give an explanation for the movement in the objects?
+  * How are the objects moving? (pre-filled list of multiple choice answers)
+  * If you had to choose one behaviour from the list above, what would it be?
+
+  For selected participants:
+  * Data from the naked mole-rat locations and activities move the objects. Does
+  this impact your perception of the objects? In which way?
+
+
+
+
+Responses to detailed questions:
+
+- Are the participants under 16?
+  No
+  No comments supplied
+
+- Could the participants be classified as vulnerable adults?
+  No
+  No comments supplied
+
+- Do the participants have learning difficulties?
+  No
+  No comments supplied
+
+- Does the research involve using or collecting human tissue?
+  No
+  No comments supplied
+
+- Could this research uncover illegal activities (drug use, immigration etc.)?
+  No
+  No comments supplied
+
+- Could this research cause stress or anxiety in the participant?
+  No
+  No comments supplied
+
+- Will you be asking questions relating to issues of a personal sensitive nature?
+  No
+  No comments supplied
+                   
+- Could this research bring the University into disrepute?
+  No
+  No comments supplied
+                                
+- Does the research involve the person taking a drug of any description - even over the counter medicines?
+  No
+  No comments supplied
+        
+- Does the research involve an intervention e.g. exercise, hypnotherapy?
+  No
+  No comments supplied
+                                
+- Does the research rely on covert observation of the participants?
+  No
+  No comments supplied
+           
+- Will this research be conducted in the participants' homes?
+  No
+  No comments supplied
+                
+- Will the participant be paid - not just expenses?
+  No
+  No comments supplied
+                                
+- Will the data collected be sent or used overseas?
+  No
+  No comments supplied
